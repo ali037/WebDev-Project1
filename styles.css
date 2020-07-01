@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #32407b;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 35px;
+}
+h3 {
+  margin:auto;
+  padding-bottom: 50px;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+}
+
+p {
+  margin: auto;
+
+  color: grey;
+  font-style: bolder;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+}
+
+.top-container {
+  background-color: #f1fdf3;
+  text-align: center;
+}
+.Name {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  font-weight: bolder;
+  color: #66BFBF;
+}
+.banner {
+  width: 40%;
+}
+.night {
+  width: 7%;
+}
+
+.day {
+  width: 7%;
+}
+.middle-container {
+  margin: auto;
+  background-color: #99cda9;
+}
+.profile {
+  font-family: 'Krona One', sans-serif;
+  text-decoration: underline;
+
+}
+.ProfilePic {
+  border-radius: 100px;
+  margin-right: 30%;
+  border-width: 40%;
+  border-color: #32407b;
+  float: right;
+  border-style: ridge;
+  margin-top: 50px;
+
+}
+.AboutMe {
+  width: 500px;
+  text-align: left;
+  margin-left: 30%;
+
+}
+.Iam {
+  width: 600px;
+  margin:auto;
+  text-align: left;
+  margin-left: 30%;
+
+}
