@@ -1,6 +1,8 @@
 body {
   margin: 0;
   text-align: center;
+
+
 }
 
 h1 {
@@ -14,6 +16,7 @@ h1 {
 h3 {
   margin:auto;
   padding-bottom: 50px;
+  padding-top: 50px;
   color: black;
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
@@ -28,6 +31,15 @@ p {
   font-size: 25px;
 }
 
+li {
+
+    margin: auto;
+
+    color: grey;
+    font-style: bolder;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
 .top-container {
   background-color: #f1fdf3;
   text-align: center;
@@ -51,6 +63,7 @@ p {
 .middle-container {
   margin: auto;
   background-color: #99cda9;
+  padding-bottom: 50px;
 }
 .profile {
   font-family: 'Krona One', sans-serif;
@@ -59,24 +72,50 @@ p {
 }
 .ProfilePic {
   border-radius: 100px;
-  margin-right: 30%;
+
   border-width: 40%;
   border-color: #32407b;
-  float: right;
+
   border-style: ridge;
   margin-top: 50px;
 
 }
 .AboutMe {
-  width: 500px;
+  width: 600px;
   text-align: left;
-  margin-left: 30%;
+  text
+
+  padding-top: 30px;
 
 }
 .Iam {
   width: 600px;
   margin:auto;
   text-align: left;
-  margin-left: 30%;
+}
+.bottom-container {
+  padding-bottom: 50px;
+  background-color: #f1fdf3;
+  }
+.Contact {
+  font-family: 'Krona One', sans-serif;
+  text-decoration: underline;
 
+}
+.fas, .fab {
+  font-size: 50px;
+  padding: 50px 50px;
+}
+.fa-twitter {
+  color: lightblue;
+}
+.fa-envelope{
+  color: green;
+}
+.fa-facebook-square{
+  color: blue;
+}
+
+.fa-instagram {
+color: ##8134AF;
 }
